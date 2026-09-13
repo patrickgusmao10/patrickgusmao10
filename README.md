@@ -90,7 +90,7 @@ Minha trajetória mistura negócios, tecnologia, experiência internacional e ci
 
 <br>
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, desenvolvimento mobile, banco de dados, engenharia de software e qualidade de software**.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, segurança da informação, banco de dados, engenharia de software e qualidade de software**.
 
 ---
 
