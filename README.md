@@ -55,7 +55,6 @@ Minha trajetória mistura negócios, tecnologia, experiência internacional e ci
 ![English](https://img.shields.io/badge/🇺🇸_English-Native-0A3161?style=for-the-badge)
 
 </div>
----
 
 ## 💻 Tecnologias & Ferramentas
 
