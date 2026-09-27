@@ -91,7 +91,7 @@ Recriação do clássico com animações, sons, pontuação e high score.
 
 **Godot • GDScript**
 
-[🎮 Play](https://patrickgusmao10.github.io/flappy-bird-godot/) • [📂 Repository](https://github.com/patrickgusmao10/flappy-bird-godot)
+[🎮 Play](https://patrickgusmao10.github.io/flappy-bird-godot/v2/) • [📂 Repository](https://github.com/patrickgusmao10/flappy-bird-godot)
 
 </td>
 
