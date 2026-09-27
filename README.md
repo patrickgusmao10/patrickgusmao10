@@ -10,7 +10,7 @@
 
 ### 👋 Olá, eu sou o Patrick!
 
-**Analista de Negócios na SoftExpert • Estudante de Engenharia de Software**
+**Analista de Processos de Negócios na SoftExpert • Estudante de Engenharia de Software**
 
 *Mais de 10 anos transformando necessidades de negócio em soluções de software.*
 
@@ -185,7 +185,7 @@ Minha trajetória mistura negócios, tecnologia, experiência internacional e ci
 
 <br>
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, segurança da informação, desenvolvimento de games, e desenvolvimento mobile.**
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, segurança da informação, desenvolvimento de games e desenvolvimento mobile.**
 
 ---
 
