@@ -2,7 +2,7 @@
 
 # 🎬 Patrick Gonçalves Gusmão
 
-### Business Analyst • Software Engineering • Software Development • Cinema
+### Business Process Analyst • BPMN • Software Engineering • Software Development
 
 <img src="https://giffiles.alphacoders.com/211/211748.gif" width="100%" alt="Cyberpunk City">
 
@@ -114,9 +114,11 @@ Sistema de gestão para quartos, hóspedes, reservas e fluxo de hospedagem.
 
 ## 🎞️ Sobre mim
 
-Sou **Analista de Negócios na SoftExpert**, com mais de **10 anos de experiência na área de tecnologia**, atuando na análise de necessidades de negócio, implementação de soluções de software e desenvolvimento de sistemas.
+Sou **Analista de Negócios de Processos na SoftExpert**, com mais de **10 anos de experiência na área de tecnologia**, atuando na análise de necessidades de negócio, implementação de soluções de software e desenvolvimento de sistemas.
 
-Ao longo da minha trajetória profissional, participei de diversas implementações, trabalhando diretamente na transformação de necessidades e processos de negócio em soluções tecnológicas.
+Sou especialista em BPMN (Business Process Model and Notation), utilizando modelagem de processos para transformar necessidades e regras de negócio em fluxos estruturados, compreensíveis e aplicáveis a soluções de software.
+
+Ao longo da minha trajetória profissional, participei de diversas implementações (nacionais e internacionais), trabalhando diretamente na transformação de necessidades e processos de negócio em soluções tecnológicas.
 
 Atualmente também curso **Engenharia de Software**, aprofundando meus conhecimentos em desenvolvimento de software, aplicações web e mobile, banco de dados, arquitetura e qualidade de software.
 
