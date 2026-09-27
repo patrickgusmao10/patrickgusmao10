@@ -24,57 +24,91 @@
 
 Projetos que representam minha evolução em **engenharia de software, desenvolvimento web, mobile, segurança e game development**.
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### ☄️ Asteroids — Godot 4
 
-Recriação e expansão do clássico **Asteroids**, desenvolvida em Godot 4 e evoluída através de múltiplas versões jogáveis.
+Arcade game com múltiplas versões, waves, bosses, habilidades e progressão.
 
-A versão mais recente conta com **waves infinitas, seleção de naves, mini-bosses, UFOs, sistema de escudo, ataque especial, pickups, recordes, progressão de dificuldade e diferentes mecânicas de combate**.
-
-**Tech:** Godot 4 • GDScript • Game Development
+**Godot 4 • GDScript**
 
 [🎮 Play V3](https://patrickgusmao10.github.io/asteroids-godot/v3/) • [📂 Repository](https://github.com/patrickgusmao10/asteroids-godot)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📱 Pokédex Flutter
 
-Aplicação desenvolvida em **Flutter** para consulta de Pokémon, utilizando integração com API e interface adaptada também para execução na Web.
+Pokédex multiplataforma com integração de API e versão Web.
 
-**Tech:** Flutter • Dart • REST API • GitHub Pages
+**Flutter • Dart • REST API**
 
 [🌐 Live Demo](https://patrickgusmao10.github.io/pokedex-flutter/) • [📂 Repository](https://github.com/patrickgusmao10/pokedex-flutter)
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### ✈️ TravelBuddy
 
-Aplicação web full stack voltada ao compartilhamento de experiências e destinos de viagem, com **autenticação, gerenciamento de perfil, upload de imagens e publicação de destinos**.
+Aplicação full stack para perfis, autenticação e compartilhamento de destinos.
 
-**Tech:** Vue.js • Node.js • Express • MySQL • REST API
+**Vue.js • Node.js • Express • MySQL**
 
 [📂 Repository](https://github.com/patrickgusmao10/TravelBuddy)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔐 N1 Pentest
 
-Projeto desenvolvido com foco em **segurança de aplicações web**, explorando autenticação, autorização e mecanismos de proteção contra vulnerabilidades comuns.
+Projeto focado em segurança de aplicações web e autenticação.
 
-Inclui **JWT, CSRF protection, Helmet, bcrypt, controle de acesso e testes relacionados à segurança da aplicação**.
-
-**Tech:** Node.js • Express • MySQL • JWT • CSRF • Helmet
+**Node.js • JWT • CSRF • Helmet • MySQL**
 
 [📂 Repository](https://github.com/patrickgusmao10/N1-Pentest)
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🐦 Flappy Bird — Godot
 
-Recriação do clássico **Flappy Bird** em Godot, evoluída através de diferentes versões com **animações, efeitos sonoros, sistema de pontuação, high score e telas de início e Game Over**.
+Recriação do clássico com animações, sons, pontuação e high score.
 
-**Tech:** Godot • GDScript • Game Development
+**Godot • GDScript**
 
 [🎮 Play](https://patrickgusmao10.github.io/flappy-bird-godot/) • [📂 Repository](https://github.com/patrickgusmao10/flappy-bird-godot)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏨 CheckFlow
+
+Sistema de gestão para quartos, hóspedes, reservas e fluxo de hospedagem.
+
+**Node.js • SQLite • Web Development**
+
+[📂 Repository](https://github.com/patrickgusmao10/checkflow)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
