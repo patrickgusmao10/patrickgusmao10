@@ -2,7 +2,7 @@
 
 # 🎬 Patrick Gonçalves Gusmão
 
-### Business Analyst • Software Engineering • Development • Cinema
+### Business Analyst • Software Engineering • Software Development • Cinema
 
 <img src="https://giffiles.alphacoders.com/211/211748.gif" width="100%" alt="Cyberpunk City">
 
@@ -17,6 +17,64 @@
 *E uma vida inteira apaixonado por cinema e por contar histórias.*
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+Projetos que representam minha evolução em **engenharia de software, desenvolvimento web, mobile, segurança e game development**.
+
+### ☄️ Asteroids — Godot 4
+
+Recriação e expansão do clássico **Asteroids**, desenvolvida em Godot 4 e evoluída através de múltiplas versões jogáveis.
+
+A versão mais recente conta com **waves infinitas, seleção de naves, mini-bosses, UFOs, sistema de escudo, ataque especial, pickups, recordes, progressão de dificuldade e diferentes mecânicas de combate**.
+
+**Tech:** Godot 4 • GDScript • Game Development
+
+[🎮 Play V3](https://patrickgusmao10.github.io/asteroids-godot/v3/) • [📂 Repository](https://github.com/patrickgusmao10/asteroids-godot)
+
+---
+
+### 📱 Pokédex Flutter
+
+Aplicação desenvolvida em **Flutter** para consulta de Pokémon, utilizando integração com API e interface adaptada também para execução na Web.
+
+**Tech:** Flutter • Dart • REST API • GitHub Pages
+
+[🌐 Live Demo](https://patrickgusmao10.github.io/pokedex-flutter/) • [📂 Repository](https://github.com/patrickgusmao10/pokedex-flutter)
+
+---
+
+### ✈️ TravelBuddy
+
+Aplicação web full stack voltada ao compartilhamento de experiências e destinos de viagem, com **autenticação, gerenciamento de perfil, upload de imagens e publicação de destinos**.
+
+**Tech:** Vue.js • Node.js • Express • MySQL • REST API
+
+[📂 Repository](https://github.com/patrickgusmao10/TravelBuddy)
+
+---
+
+### 🔐 N1 Pentest
+
+Projeto desenvolvido com foco em **segurança de aplicações web**, explorando autenticação, autorização e mecanismos de proteção contra vulnerabilidades comuns.
+
+Inclui **JWT, CSRF protection, Helmet, bcrypt, controle de acesso e testes relacionados à segurança da aplicação**.
+
+**Tech:** Node.js • Express • MySQL • JWT • CSRF • Helmet
+
+[📂 Repository](https://github.com/patrickgusmao10/N1-Pentest)
+
+---
+
+### 🐦 Flappy Bird — Godot
+
+Recriação do clássico **Flappy Bird** em Godot, evoluída através de diferentes versões com **animações, efeitos sonoros, sistema de pontuação, high score e telas de início e Game Over**.
+
+**Tech:** Godot • GDScript • Game Development
+
+[🎮 Play](https://patrickgusmao10.github.io/flappy-bird-godot/) • [📂 Repository](https://github.com/patrickgusmao10/flappy-bird-godot)
 
 ---
 
@@ -55,6 +113,8 @@ Minha trajetória mistura negócios, tecnologia, experiência internacional e ci
 ![English](https://img.shields.io/badge/🇺🇸_English-Native-0A3161?style=for-the-badge)
 
 </div>
+
+---
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -142,3 +202,6 @@ const patrick = {
 
     currentStatus: "The story is just beginning..."
 };
+```
+
+</div>
