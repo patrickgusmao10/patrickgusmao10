@@ -177,13 +177,13 @@ Minha trajetória mistura negócios, tecnologia, experiência internacional e ci
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,vue,flutter,dart,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,vue,flutter,dart,godot,mysql,postgres" />
 
 </div>
 
 <br>
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, segurança da informação, banco de dados, engenharia de software e qualidade de software**.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web, segurança da informação, desenvolvimento de games, e desenvolvimento mobile.**.
 
 ---
 
