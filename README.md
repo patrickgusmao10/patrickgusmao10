@@ -18,6 +18,18 @@
 
 </div>
 
+<div align="center">
+
+### 🌐 Meu site pessoal & portfólio
+
+Minha trajetória profissional, projetos de software e games, e o cinema que me inspira — reunidos em um só lugar.
+
+**[🚀 Explore meu portfólio](https://patrickgusmao10.github.io/portfolio/)**
+
+🇧🇷 Português · 🇺🇸 English
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
