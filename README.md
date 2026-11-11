@@ -126,7 +126,7 @@ Sistema de gestão para quartos, hóspedes, reservas e fluxo de hospedagem.
 
 ## 🎞️ Sobre mim
 
-Sou **Analista de Negócios de Processos na SoftExpert**, com mais de **10 anos de experiência na área de tecnologia**, atuando na análise de necessidades de negócio, implementação de soluções de software e desenvolvimento de sistemas.
+Sou **Analista de Soluções e Implementação na SoftExpert**, com mais de **10 anos de experiência na área de tecnologia**, atuando na análise de necessidades de negócio, implementação de soluções de software e desenvolvimento de sistemas.
 
 Sou especialista em BPMN (Business Process Model and Notation), utilizando modelagem de processos para transformar necessidades e regras de negócio em fluxos estruturados, compreensíveis e aplicáveis a soluções de software.
 
