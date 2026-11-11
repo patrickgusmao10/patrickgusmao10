@@ -2,7 +2,7 @@
 
 # 🎬 Patrick Gonçalves Gusmão
 
-### Business Process Analyst • BPMN • Software Engineering • Software Development
+### Solutions and Implementation Analyst • BPMN • Software Engineering • Software Development
 
 <img src="https://giffiles.alphacoders.com/211/211748.gif" width="100%" alt="Cyberpunk City">
 
@@ -10,7 +10,7 @@
 
 ### 👋 Olá, eu sou o Patrick!
 
-**Analista de Processos de Negócios na SoftExpert • Estudante de Engenharia de Software**
+**Analista de Soluções e Implementação na SoftExpert • Estudante de Engenharia de Software**
 
 *Mais de 10 anos transformando necessidades de negócio em soluções de software.*
 
